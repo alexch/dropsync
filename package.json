@@ -1,0 +1,14 @@
+{
+  "name": "dropsync",
+  "version": "0.1.0",
+  "description": "compare and sync two directories, recursively",
+  "main": "dropsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexch@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}
